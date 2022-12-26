@@ -95,4 +95,10 @@
   "engines": {
     "npm": ">=6.0.0 <7"
   }
+  {
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
+
 }
